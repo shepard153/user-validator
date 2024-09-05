@@ -3,5 +3,9 @@
 Running:
 ```php
 php index.php
-php index.php test // To run with test credentials
+```
+
+To run with test credentials:
+```php
+php index.php test
 ```
